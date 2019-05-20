@@ -1,0 +1,17 @@
+--2017-07-11 22:05:20--  https://www.dropbox.com/s/1p1p74pnc0f1k2g/-2.jpeg?dl=0
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.64.1
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.64.1|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dl.dropboxusercontent.com/content_link/Qk5KAhPAFj9PMOZGOPj4G4a8Q2gNH3M93LmkDpmZbfmuH9Fk1voYR1DQuUxz89l0/file [following]
+--2017-07-11 22:05:20--  https://dl.dropboxusercontent.com/content_link/Qk5KAhPAFj9PMOZGOPj4G4a8Q2gNH3M93LmkDpmZbfmuH9Fk1voYR1DQuUxz89l0/file
+Resolving dl.dropboxusercontent.com (dl.dropboxusercontent.com)... 162.125.64.6
+Connecting to dl.dropboxusercontent.com (dl.dropboxusercontent.com)|162.125.64.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55860 (55K) [image/jpeg]
+Saving to: ‘-2.jpeg?dl=0’
+
+     0K .......... .......... .......... .......... .......... 91% 18.5M 0s
+    50K ....                                                  100% 8680G=0.003s
+
+2017-07-11 22:05:21 (20.2 MB/s) - ‘-2.jpeg?dl=0’ saved [55860/55860]
+
