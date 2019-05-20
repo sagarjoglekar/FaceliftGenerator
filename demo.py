@@ -88,6 +88,7 @@ print(collage.shape)
 # cv2.imwrite("test.png",collage)
 # save results to a file
 collage = patchShow.patchShow(collage, in_range=(-120,120))
-scipy.misc.imsave('reconstructions_' + net_name + '.png', collage)
+frag = iname.split('.')[0]
+scipy.misc.imsave('reconstructions_' + frag + '_' +  net_name + '.png', collage)
 
   
